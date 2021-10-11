@@ -1,7 +1,5 @@
-import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Link from "next/link";
-import { FaPencilAlt, FaTimes } from "react-icons/fa";
 import { useRouter } from "next/router";
 import Image from "next/image";
 import Layout from "../../components/Layout";
